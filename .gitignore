@@ -11,8 +11,12 @@ spec/reports
 test/tmp
 test/version_tmp
 tmp
+log*/*
 
 # YARD artifacts
 .yardoc
 _yardoc
 doc/
+
+# local config
+mssql.yml
